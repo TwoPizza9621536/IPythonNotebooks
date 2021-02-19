@@ -1,2 +1,2 @@
-# IPythonNotebooks
- A repo for CodingHobby to render Juypter Notebooks
+# IupyterNotebooks
+ A repo for CodingHobby to render Jupyter Notebooks
